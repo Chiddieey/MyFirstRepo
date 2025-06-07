@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+My name is Blessing Berko, and I am a passionate learner exploring the world of software development. I have a keen interest in coding, building projects, and learning new technologies.
+
+In my free time, I enjoy reading about tech innovations, solving problems on coding platforms, and collaborating on open-source projects. I'm excited to start my GitHub journey and grow my skills here.

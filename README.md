@@ -13,3 +13,7 @@ Inside this repository, you will find:-
 This project helps me build my skills in version control and collaboration using GitHub.
  ad2ca47 (Update README.md with purpose statement for assignmen)
 
+## Contributors
+
+- Chiddieey (chidimmaeezee@gmail.com)
+

@@ -1,1 +1,5 @@
 I have learned how to use GitHub for creating repositories, managing branches, and collaborating with pull requests. It's been a valuable experience in version control and project management.
+During this course, I learned how to use Git and GitHub to manage version control effectively.  
+I practiced creating repositories, committing changes, pushing updates, resolving merge conflicts, and collaborating with others via pull requests.  
+These skills are crucial for working on real-world software projects with teams.
+
